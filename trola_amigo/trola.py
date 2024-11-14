@@ -4,7 +4,7 @@ import time
 
 time.sleep(10)
 
-messagens = ["TE AMO MUITO"]
+messagens = ["oi"]
 
 for i in range(100):
     msg = random.choice(messagens)
